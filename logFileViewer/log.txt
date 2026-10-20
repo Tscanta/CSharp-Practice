@@ -1,0 +1,3 @@
+[17:15:33] Application Started - Your Message: 'wassup' 
+[17:15:57] Application Started - Your Message: 'this is an event logger' 
+[17:16:13] Application Started - Your Message: 'made for practicing file read and write operations' 
