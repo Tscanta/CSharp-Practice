@@ -1,1 +1,14 @@
-.vscode
+
+# Build output
+bin/
+obj/
+
+# IDE settings
+.vs/
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+
+just mainting that commit streal lol
